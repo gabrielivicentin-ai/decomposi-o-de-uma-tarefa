@@ -1,1 +1,2 @@
-# decomposi-o-de-uma-tarefa
+# decomposição-de-uma-tarefa
+Neste projeto foi realizado a decomposição da seguinte tarefa: "RECEITA DE PIPOCA"
